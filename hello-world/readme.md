@@ -12,7 +12,8 @@ Fire up your favorite text editor and write down the following code. This is the
 
 ```basic
 10 print "hello world  ";
-20 goto 10```
+20 goto 10
+```
 
 Save the file as **hello-world.bas**. Now it is time to petcat magic.
 
