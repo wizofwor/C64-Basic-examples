@@ -2,7 +2,7 @@
 
 BASIC MAZE GENERATOR
 
-![image](http://github.com/wizofwor/C64-Basic-examples/blob/master/maze-gen/capture.png?raw=true)
+![image](https://github.com/wizofwor/C64-Basic-examples/blob/master/maze-gen/capture.png?raw=true)
 
 ### Explanations
 
