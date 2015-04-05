@@ -4,3 +4,6 @@ Thanks to the petcat utility supplied with VICE emulator package, one can easily
 
 1. [Hello World](https://github.com/wizofwor/C64-Basic-examples/tree/master/hello-world)   
    Introduction to petcat
+   
+2. [Maze-gen](https://github.com/wizofwor/C64-Basic-examples/tree/master/maze-gen)   
+   A maze generator program based on famous `10 PRINT CHR$(205.5+RND(1)); : GOTO 10` trick. 
